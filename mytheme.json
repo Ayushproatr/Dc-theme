@@ -9,9 +9,13 @@
   ],
   "semanticColors": {
     "BACKGROUND_TERTIARY": ["#000000"],
-    "BACKGROUND_ACCENT": ["#121212"],
+"BACKGROUND_ACCENT": [
+  "#0C0C0C"
+],
     "BACKGROUND_SECONDARY": ["#000000"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#121212"],
+    "BACKGROUND_MODIFIER_ACCENT": [
+  "#0C0C0C"
+    ],
     "DIVIDER_STRONG": ["#000000"],
     "DIVIDER_SUBTLE": ["#000000"],
     "BORDER_SUBTLE": ["#000000"],
@@ -61,13 +65,15 @@
     "REDESIGN_CHAT_INPUT_BACKGROUND": ["#000000"],
     "SCROLLBAR_AUTO_TRACK": ["#FFFFFF"],
     "REDESIGN_INPUT_CONTROL_SELECTED": ["#36393E"],
-    "INTERACTIVE_MUTED": ["#121212"],
+    "INTERACTIVE_MUTED": [
+  "#0C0C0C"
+    ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": ["#000000"],
     "MENTION_BADGE": ["#ff6161"],
     "REDESIGN_MENTION_BADGE": ["#ff6161"]
   },
   "rawColors": {
-    "BLACK_500": "#00000050",
+    "BLACK_500": "#00000018",
     "BRAND_260": "#FFFFFF",
     "BRAND_360": "#FFFFFF",
     "BRAND_560": "#000000",
@@ -122,8 +128,8 @@
   },
   "background": {
     "url": "https://files.catbox.moe/el57yu.jpg",
-    "blur": 0.45,
-    "alpha": 0.18,
+    "blur": 0.18,
+    "alpha": 0.36,
     "size": "cover",
     "position": "center"
   },
