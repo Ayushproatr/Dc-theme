@@ -127,11 +127,12 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://files.catbox.moe/el57yu.jpg",
-    "blur": 0.18,
-    "alpha": 0.36,
-    "size": "cover",
-    "position": "center"
+  "url": "https://files.catbox.moe/la5hfv.jpg",
+  "blur": 0.22,
+  "alpha": 0.44,
+  "size": "cover",
+  "position": "center"
+  }
   },
   "plus": {
     "version": "0",
