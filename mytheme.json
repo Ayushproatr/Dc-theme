@@ -128,8 +128,8 @@
   },
   "background": {
   "url": "https://files.catbox.moe/la5hfv.jpg",
-  "blur": 0.22,
-  "alpha": 0.44,
+  "blur": 0.10,
+  "alpha": 0.36,
   "size": "cover",
   "position": "center"
   },
