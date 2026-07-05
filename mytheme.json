@@ -128,7 +128,7 @@
   },
   "background": {
   "url": "https://files.catbox.moe/1pxvob.jpg",
-  "blur": 0.20,
+  "blur": 0.15,
   "alpha": 0.40,
   "size": "cover",
   "position": "center"
